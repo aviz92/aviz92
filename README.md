@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Avi Zaguri
+# Hello and Welcome 👋, I'm Avi Zaguri
 
 **B.Sc. Electrical Engineering** | **M.Sc. System Engineering**<br>
 **Infrastructre and Automation Architect | Python Developer | Network Engineer**
