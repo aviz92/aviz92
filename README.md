@@ -1,26 +1,33 @@
 # Hello and Welcome 👋, I'm Avi Zaguri
-
-**B.Sc. Electrical Engineering** | **M.Sc. System Engineering**<br>
-**Infrastructre and Automation Architect | Python Developer | Network Engineer**
-
+🎓 B.Sc. Electrical Engineering | M.Sc. System Engineering
+<br>
+🚀 Automation Infrastructure Architect | Technical Leader | Python Expert
 
 <br>
 
-# 🙋‍♂️ About me  
-As a highly skilled and results-driven **Software Developer**, **Infrastructure & Automation Architect**, and **Network Engineer**, I bring a wealth of technical expertise and practical experience in designing, developing, and managing complex systems. 
-I hold a **B.Sc. in Electrical Engineering** and an **M.Sc. in System Engineering**.
+Innovative and results-driven Automation Infrastructure Architect with a strong background in designing and developing scalable automation solutions. Passionate about driving efficiency, reliability, and performance through modern automation frameworks, cloud technologies, and DevOps methodologies.
 
-My true passion is designing complex systems and developing methodologies that improve efficiency and performance. 
-The roles I enjoy most are those where I am brought into organizations to optimize and enhance existing automation and infrastructure teams. I focus on driving impactful change, stabilizing operations, and scaling these teams to deliver sustained success and improved performance.
-I thrive in environments where I have a broad impact on processes, workflows, and overall organizational success.
+With a proven track record of leading infrastructure transitions from in-house to industrial solutions, I focus on creating robust, modular architectures that ensure flexibility and long-term growth. My expertise spans Python development, CI/CD processes, cloud infrastructure (AWS, Kubernetes, Docker), and automation frameworks.
 
+Beyond technical expertise, I thrive in collaborative environments, working closely with DevOps, R&D, and QA teams to optimize workflows and enhance product quality. Committed to continuous learning, I stay ahead of emerging technologies and industry trends to drive innovation in every project I take on.
 
 <br>
 
-### Research Academic Highlights:  
+### 🎓 Education:
+- M.Sc. in Technology Management, specializing in Systems Engineering – HiT Holon
+- B.Sc. in Electronics Engineering, specializing in Network Engineering – HiT Holon
+
+<br>
+
+### 🎓 Research Academic Highlights:  
 - My **M.Sc. thesis** titled *"Evaluation of Practical Modeling Tools and Methods for Cyber Physical Systems"* examined the real-world applicability of system modeling tools in industrial environments.  
 - The project was recognized both **locally and internationally**, presented in various committees and conferences. It was awarded the **"Excellent Project"** title and published in the **IEEE Journal**:  
   [IEEE Article Link](https://ieeexplore.ieee.org/document/9988180)
+
+<br>
+
+Let’s connect and explore opportunities to innovate together! 🚀
+
 
 
 
