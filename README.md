@@ -17,7 +17,6 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 - M.Sc. in Technology Management, specializing in Systems Engineering – HiT Holon
 - B.Sc. in Electronics Engineering, specializing in Network Engineering – HiT Holon
 
-<br>
 
 ### 🎓 Research Academic Highlights:  
 - My **M.Sc. thesis** titled *"Evaluation of Practical Modeling Tools and Methods for Cyber Physical Systems"* examined the real-world applicability of system modeling tools in industrial environments.  
