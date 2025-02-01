@@ -1,4 +1,17 @@
 # Avi Zaguri - CV
+🎓 B.Sc. Electrical Engineering | M.Sc. System Engineering
+<br>
+🚀 Automation Infrastructure Architect | Technical Leader | Python Expert
+<br>
+
+
+## Contact
+📞 **Phone:** +972 50-226-9769  
+✉️ **Email:** [avi210892@gmail.com](mailto:avi210892@gmail.com)  
+🔗 **LinkedIn:** [Avi Zaguri](https://www.linkedin.com/in/avi-zaguri-41869b11b/)  
+📍 **Location:** Tel Aviv, Israel  
+
+---
 
 ## Profile
 Highly motivated and driven to succeed, possessing extensive technological knowledge, leadership and creative thinking skills, strong interpersonal abilities, responsibility, and reliability. 
@@ -86,14 +99,6 @@ Passionate about new technologies, with a strong focus on continuous improvement
 ## Languages
 - **Hebrew** - Native
 - **English** - Fluent
-
----
-
-## Contact
-📞 **Phone:** +972 50-226-9769  
-✉️ **Email:** [avi210892@gmail.com](mailto:avi210892@gmail.com)  
-🔗 **LinkedIn:** [Avi Zaguri](https://www.linkedin.com/in/avi-zaguri-41869b11b/)  
-📍 **Location:** Tel Aviv, Israel  
 
 ---
 
