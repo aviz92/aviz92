@@ -1,6 +1,6 @@
-# Hello and Welcome 👋, I'm Avi Zaguri
+# Hi, I'm Avi 👋
 
-🎓 **B.Sc. Electrical Engineering | M.Sc. System Engineering**
+🎓 **B.Sc. Electrical Engineering | M.Sc. System Engineering** <br>
 🚀 **Automation Infrastructure Architect | Technical Leader | Python Expert**
 
 Innovative and results-driven **Automation Infrastructure Architect** with a strong background in designing and developing scalable automation solutions. Passionate about driving efficiency, reliability, and performance through modern automation frameworks, cloud technologies, and DevOps methodologies.
@@ -8,17 +8,6 @@ Innovative and results-driven **Automation Infrastructure Architect** with a str
 With a proven track record of leading infrastructure transitions from in-house to industrial solutions, I focus on creating robust, modular architectures that ensure flexibility and long-term growth. My expertise spans Python development, CI/CD processes, cloud infrastructure (AWS, Kubernetes, Docker), and automation frameworks.
 
 Beyond technical expertise, I thrive in collaborative environments, working closely with DevOps, R&D, and QA teams to optimize workflows and enhance product quality.
-
----
-
-### 🎓 Education & Research
-
-* **M.Sc. in Technology Management (Systems Engineering)** – HiT Holon
-* **B.Sc. in Electronics Engineering (Network Engineering)** – HiT Holon
-* **Academic Highlight:** My M.Sc. thesis, *"Evaluation of Practical Modeling Tools and Methods for Cyber Physical Systems,"* was awarded **"Excellent Project"** and published in the **IEEE Journal**.
-* [Read the IEEE Article](https://ieeexplore.ieee.org/document/9988180)
-
-
 
 ---
 
@@ -66,4 +55,4 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 
 I'm always open to discussing automation architecture, Python best practices, or potential innovations.
 
-[GitHub](https://www.google.com/search?q=https://github.com/avizaguri) | [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/avi-zaguri/) | [PyPI Profile](https://www.google.com/search?q=https://pypi.org/user/avizaguri/)
+[GitHub](https://github.com/aviz92) | [LinkedIn](https://www.linkedin.com/in/avi-zaguri-41869b11b) | [PyPI Profile](https://pypi.org/user/aviz/)
