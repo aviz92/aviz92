@@ -11,7 +11,6 @@ With a proven track record of leading infrastructure transitions from in-house t
 
 Beyond technical expertise, I thrive in collaborative environments, working closely with DevOps, R&D, and QA teams to optimize workflows and enhance product quality. Committed to continuous learning, I stay ahead of emerging technologies and industry trends to drive innovation in every project I take on.
 
-<br>
 
 ### 🎓 Education:
 - M.Sc. in Technology Management, specializing in Systems Engineering – HiT Holon
@@ -23,9 +22,46 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 - The project was recognized both **locally and internationally**, presented in various committees and conferences. It was awarded the **"Excellent Project"** title and published in the **IEEE Journal**:  
   [IEEE Article Link](https://ieeexplore.ieee.org/document/9988180)
 
-<br>
+---
+
+## Current Projects
+
+🛠️ Pytest Ecosystem
+These are your "Power User" tools. Lead with these to show deep testing expertise.
+
+- **[pytest-plugins](https://pypi.org/project/pytest-plugins)** - Enhanced reporting and smart CI utilities for advanced test workflows
+- **[pytest-dynamic-parameterize](https://pypi.org/project/pytest-dynamic-parameterize)** - Dynamic, function-based test parameterization for complex data-driven scenarios.
+- **[pytest-depends-on](https://pypi.org/project/pytest-depends-on)** - Explicit test dependency management with automatic execution re-ordering.
+- **[pytest-collect-requirements](https://pypi.org/project/pytest-collect-requirements)** - Automated requirement collection and traceability mapping directly from your test suite.
+
+
+🔌 The "Plus" Client Series
+Grouping your branded wrappers together creates a much stronger "brand" for your work.
+- **[python-github-plus](https://pypi.org/project/python-github-plus)** - Enhanced GitHub client with improved PR workflows and resilient error management.
+- **[python-gitlab-plus](https://pypi.org/project/python-gitlab-plus)** - Advanced GitLab client optimized for streamlined Merge Request and branch lifecycle management.
+- **[python-jira-plus](https://pypi.org/project/python-jira-plus)** - Extended JIRA client with robust error handling, automated pagination, and metadata validation.
+- **[python-notion-plus](https://pypi.org/project/python-notion-plus)** - An enhanced Notion API client focused on developer experience and intuitive data handling.
+
+
+🏗️ Backend & Data Infrastructure
+The "Meat and Potatoes" - tools that handle the heavy lifting of data and security.
+- **[pyrest-model-client](https://pypi.org/project/pyrest-model-client)** - A type-safe, model-driven REST client for structured and intuitive API interactions.
+- **[drf-easy-crud](https://pypi.org/project/drf-easy-crud)** - Enterprise-grade CRUD automation for DRF with built-in filtering, pagination, and standardized methods.
+- **[python-databases](https://pypi.org/project/python-databases)** - A unified, extensible interface for interacting with multiple database types through a single API.
+- **[python-vault](https://pypi.org/project/python-vault)** - A lightweight HashiCorp Vault wrapper for secure AppRole authentication and KV secret management.
+- **[python-simple-email-sender](https://pypi.org/project/python-simple-email-sender)** - A minimalist SMTP client for sending emails and attachments with zero boilerplate.
+
+
+🧱 Core Foundations
+The essential "Plumbing" that every project needs but isn't the main event.
+- **[python-base-toolkit](https://pypi.org/project/python-base-toolkit)** - A production-ready suite of essential utilities designed to accelerate general Python development.
+- **[custom-python-logger](https://pypi.org/project/custom-python-logger)** - A flexible logger featuring colored output, custom levels, and streamlined configuration.
+- **[python-custom-exceptions](https://pypi.org/project/python-custom-exceptions)** - A centralized library of reusable, semantic exception classes for cleaner error handling.
+
+---
 
 Let’s connect and explore opportunities to innovate together! 🚀
+
 
 
 
