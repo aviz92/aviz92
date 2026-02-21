@@ -48,6 +48,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 
 * **[python-base-toolkit](https://pypi.org/project/python-base-toolkit)** – A production-ready suite of essential utilities designed to accelerate Python development.
 * **[custom-python-logger](https://pypi.org/project/custom-python-logger)** – A flexible logger featuring colored output, custom levels, and streamlined configuration.
+* **[python-base-command](https://pypi.org/project/python-base-command)** – A base command abstraction for building structured, reusable CLI and automation commands in Python.
 * **[python-custom-exceptions](https://pypi.org/project/python-custom-exceptions)** – A centralized library of reusable, semantic exception classes for cleaner error handling.
 
 ### 🚀 Templates & Starter Projects — under Backend & Data Infrastructure
