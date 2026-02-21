@@ -37,6 +37,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 
 * **[drf-easy-crud](https://pypi.org/project/drf-easy-crud)** – Enterprise-grade CRUD automation for DRF with built-in filtering and standardized methods.
 * **[pyrest-model-client](https://pypi.org/project/pyrest-model-client)** – A type-safe, model-driven REST client for structured and intuitive API interactions.
+* **[django-versioned-models](https://github.com/aviz92/django-versioned-models)** – Drop-in release management and data versioning for Django models, with CI-ready workflow and lock enforcement
 * **[python-databases](https://pypi.org/project/python-databases)** – A unified, extensible interface for interacting with multiple database types through a single API.
 * **[python-vault](https://pypi.org/project/python-vault)** – A lightweight HashiCorp Vault wrapper for secure AppRole authentication and KV secret management.
 * **[python-simple-email-sender](https://pypi.org/project/python-simple-email-sender)** – A minimalist SMTP client for sending emails and attachments with zero boilerplate.
@@ -48,6 +49,13 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[python-base-toolkit](https://pypi.org/project/python-base-toolkit)** – A production-ready suite of essential utilities designed to accelerate Python development.
 * **[custom-python-logger](https://pypi.org/project/custom-python-logger)** – A flexible logger featuring colored output, custom levels, and streamlined configuration.
 * **[python-custom-exceptions](https://pypi.org/project/python-custom-exceptions)** – A centralized library of reusable, semantic exception classes for cleaner error handling.
+
+### 🚀 Templates & Starter Projects — under Backend & Data Infrastructure
+
+*Scalable tools for managing data, security, and enterprise-grade API development.*
+
+* **[dev-template-repository](https://github.com/aviz92/dev-template-repository)** – A standardized GitHub repository template with pre-configured tooling, CI workflows, and project structure for rapid project bootstrapping.
+* **[django-basic-app](https://github.com/aviz92/django-basic-app)** – A production-ready Django REST Framework starter with enterprise-grade CRUD utilities, versioned data models, and advanced filtering out of the box.
 
 ---
 
