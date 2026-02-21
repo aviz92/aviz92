@@ -59,6 +59,12 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[fast-api-template](https://github.com/aviz92/fast-api-template)** – A production-ready FastAPI starter with pre-configured authentication, JWT token support, database integration, and example routes out of the box.
 * **[docker-mcp-service-template](https://github.com/aviz92/docker-mcp-service-template)** – A Dockerized MCP service template for rapid deployment of Model Context Protocol services with Claude Desktop integration.
 
+<!-- TODO: add ### 🤖 AI & LLM -->
+<!-- TODO: add python-llm-factory -->
+<!-- TODO: add python-jira-plus-mcp -->
+<!-- TODO: add true-count-linkedIn -->
+<!-- TODO: add python-slack-bot -->
+
 ---
 
 ### 📫 Let's Connect
