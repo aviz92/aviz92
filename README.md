@@ -56,6 +56,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 
 * **[dev-template-repository](https://github.com/aviz92/dev-template-repository)** – A standardized GitHub repository template with pre-configured tooling, CI workflows, and project structure for rapid project bootstrapping.
 * **[django-basic-app](https://github.com/aviz92/django-basic-app)** – A production-ready Django REST Framework starter with enterprise-grade CRUD utilities, versioned data models, and advanced filtering out of the box.
+* **[fast-api-template](https://github.com/aviz92/fast-api-template)** – A production-ready FastAPI starter with pre-configured authentication, JWT token support, database integration, and example routes out of the box.
 * **[docker-mcp-service-template](https://github.com/aviz92/docker-mcp-service-template)** – A Dockerized MCP service template for rapid deployment of Model Context Protocol services with Claude Desktop integration.
 
 ---
