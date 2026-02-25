@@ -1,7 +1,7 @@
 # Hi, I'm Avi 👋
 
-🎓 **B.Sc. Electrical Engineering | M.Sc. System Engineering** <br>
-🚀 **Automation Infrastructure Architect | Technical Leader | Python Expert**
+🚀 **Automation Infrastructure Architect | Technical Leader | Python Expert** <br>
+🎓 **B.Sc. Electrical Engineering | M.Sc. System Engineering** 
 
 Innovative and results-driven **Automation Infrastructure Architect** with a strong background in designing and developing scalable automation solutions. Passionate about driving efficiency, reliability, and performance through modern automation frameworks, cloud technologies, and DevOps methodologies.
 
