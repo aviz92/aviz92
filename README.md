@@ -13,6 +13,10 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 
 ## 🛠️ Open Source & Current Projects
 
+### 🤖 AI & LLM
+* **[think-drop](https://github.com/aviz92/think-drop)** (python-telegram-notion-bot) – A personal Telegram bot that captures notes, classifies them by category using AI, and writes clean summaries directly to your Notion workspace — with multi-LLM support (Gemini, OpenAI, Claude).
+* **[ticket-assist](https://github.com/aviz92/ticket-assist)** (python-slack-bot) – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
+
 ### 🧪 Pytest Ecosystem
 
 *Advanced testing utilities designed to enhance reporting, dependency management, and CI efficiency.*
@@ -61,10 +65,6 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[docker-mcp-service-template](https://github.com/aviz92/docker-mcp-service-template)** – A Dockerized MCP service template for rapid deployment of Model Context Protocol services with Claude Desktop integration.
 * **[python-telegram-bot-template](https://github.com/aviz92/python-telegram-bot-template)** – A modular Python Telegram bot starter with async handlers, inline keyboards, multi-step conversation flows, and clean separation of concerns out of the box.
 * **[python-slack-bot-template](https://github.com/aviz92/python-slack-bot-template)** – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
-
-### 🤖 AI & LLM
-* **[think-drop](https://github.com/aviz92/think-drop)** (python-telegram-notion-bot) – A personal Telegram bot that captures notes, classifies them by category using AI, and writes clean summaries directly to your Notion workspace — with multi-LLM support (Gemini, OpenAI, Claude).
-* **[ticket-assist](https://github.com/aviz92/ticket-assist)** (python-slack-bot) – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
 
 ---
 
