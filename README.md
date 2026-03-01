@@ -64,7 +64,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 <!-- TODO: * **[python-slack-bot](https://github.com/aviz92/python-slack-bot)** – A modular Python Slack bot starter with Flask event handling, AI responses, and ngrok-ready local development out of the box. -->
 
 ### 🤖 AI & LLM
-**[think-drop](https://github.com/aviz92/think-drop)** – A personal Telegram bot that captures notes, classifies them by category using AI, and writes clean summaries directly to your Notion workspace — with multi-LLM support (Gemini, OpenAI, Claude).
+* **[think-drop](https://github.com/aviz92/think-drop)** – A personal Telegram bot that captures notes, classifies them by category using AI, and writes clean summaries directly to your Notion workspace — with multi-LLM support (Gemini, OpenAI, Claude).
 * **[python-slack-bot](https://github.com/aviz92/python-slack-bot)** – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
 
 ---
