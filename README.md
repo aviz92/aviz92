@@ -14,8 +14,10 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 ## 🛠️ Open Source & Current Projects
 
 ### 🤖 AI & LLM
+*AI-powered bots and LLM integrations for intelligent automation across messaging and productivity platforms.*
+
 * **[think-drop](https://github.com/aviz92/think-drop)** (python-telegram-notion-bot) – A personal Telegram bot that captures notes, classifies them by category using AI, and writes clean summaries directly to your Notion workspace — with multi-LLM support (Gemini, OpenAI, Claude).
-* **[ticket-assist](https://github.com/aviz92/ticket-assist)** (python-slack-bot) – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
+**[ticket-assist](https://github.com/aviz92/ticket-assist)** (python-slack-bot) – An AI-powered Slack bot that automatically classifies and routes incoming support tickets using structured Pydantic models and multi-LLM support (Claude, Gemini, OpenAI), reducing manual triage effort.
 
 ### 🧪 Pytest Ecosystem
 
