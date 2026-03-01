@@ -20,7 +20,6 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[ticket-assist](https://github.com/aviz92/ticket-assist)** (python-slack-bot) – An AI-powered Slack bot that automatically classifies and routes incoming support tickets using structured Pydantic models and multi-LLM support, reducing manual triage effort.
 
 ### 🧪 Pytest Ecosystem
-
 *Advanced testing utilities designed to enhance reporting, dependency management, and CI efficiency.*
 
 * **[pytest-plugins](https://pypi.org/project/pytest-plugins)** – Enhanced reporting and smart CI utilities for advanced test workflows.
@@ -29,7 +28,6 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[pytest-collect-requirements](https://pypi.org/project/pytest-collect-requirements)** – Automated requirement collection and traceability mapping directly from your test suite.
 
 ### 🔌 The "Plus" Client Series
-
 *Enhanced, production-ready wrappers for popular APIs, focused on developer experience and resilience.*
 
 * **[python-github-plus](https://pypi.org/project/python-github-plus)** – Enhanced GitHub client with improved PR workflows and resilient error management.
@@ -38,7 +36,6 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[python-notion-plus](https://pypi.org/project/python-notion-plus)** – An enhanced Notion API client focused on developer experience and intuitive data handling.
 
 ### 🏗️ Backend & Data Infrastructure
-
 *Scalable tools for managing data, security, and enterprise-grade API development.*
 
 * **[drf-easy-crud](https://pypi.org/project/drf-easy-crud)** – Enterprise-grade CRUD automation for DRF with built-in filtering and standardized methods.
@@ -49,7 +46,6 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[python-simple-email-sender](https://pypi.org/project/python-simple-email-sender)** – A minimalist SMTP client for sending emails and attachments with zero boilerplate.
 
 ### 🧱 Core Foundations
-
 *Essential architectural utilities for clean code and robust application logic.*
 
 * **[python-base-toolkit](https://pypi.org/project/python-base-toolkit)** – A production-ready suite of essential utilities designed to accelerate Python development.
@@ -67,6 +63,15 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[docker-mcp-service-template](https://github.com/aviz92/docker-mcp-service-template)** – A Dockerized MCP service template for rapid deployment of Model Context Protocol services with Claude Desktop integration.
 * **[python-telegram-bot-template](https://github.com/aviz92/python-telegram-bot-template)** – A modular Python Telegram bot starter with async handlers, inline keyboards, multi-step conversation flows, and clean separation of concerns out of the box.
 * **[python-slack-bot-template](https://github.com/aviz92/python-slack-bot-template)** – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
+
+<!-- 
+
+### Crash Course
+*description.*
+
+* **[course-xyz](https://github.com/aviz92/course-xyz)** – course description.
+
+-->
 
 ---
 
