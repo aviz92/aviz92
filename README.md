@@ -59,8 +59,9 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[django-basic-app](https://github.com/aviz92/django-basic-app)** – A production-ready Django REST Framework starter with enterprise-grade CRUD utilities, versioned data models, and advanced filtering out of the box.
 * **[fast-api-template](https://github.com/aviz92/fast-api-template)** – A production-ready FastAPI starter with pre-configured authentication, JWT token support, database integration, and example routes out of the box.
 * **[docker-mcp-service-template](https://github.com/aviz92/docker-mcp-service-template)** – A Dockerized MCP service template for rapid deployment of Model Context Protocol services with Claude Desktop integration.
-* **[python-telegram-bot-template](https://github.com/aviz92/python-telegram-bot-template)** – A modular Python Telegram bot starter with async handlers, inline keyboards, multi-step conversation flows, and clean separation of concerns out of the box.
-* **[python-slack-bot](https://github.com/aviz92/python-slack-bot)** – A modular Python Slack bot starter with Flask event handling, AI responses, and ngrok-ready local development out of the box.
+
+<!-- TODO: * **[python-telegram-bot-template](https://github.com/aviz92/python-telegram-bot-template)** – A modular Python Telegram bot starter with async handlers, inline keyboards, multi-step conversation flows, and clean separation of concerns out of the box. -->
+<!-- TODO: * **[python-slack-bot](https://github.com/aviz92/python-slack-bot)** – A modular Python Slack bot starter with Flask event handling, AI responses, and ngrok-ready local development out of the box. -->
 
 ### 🤖 AI & LLM
 **[think-drop](https://github.com/aviz92/think-drop)** – A personal Telegram bot that captures notes, classifies them by category using AI, and writes clean summaries directly to your Notion workspace — with multi-LLM support (Gemini, OpenAI, Claude).
