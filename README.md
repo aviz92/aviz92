@@ -40,7 +40,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 
 * **[drf-easy-crud](https://pypi.org/project/drf-easy-crud)** – Enterprise-grade CRUD automation for DRF with built-in filtering and standardized methods.
 * **[pyrest-model-client](https://pypi.org/project/pyrest-model-client)** – A type-safe, model-driven REST client for structured and intuitive API interactions.
-* **[django-versioned-models](https://github.com/aviz92/django-versioned-models)** – Drop-in release management and data versioning for Django models, with CI-ready workflow and lock enforcement
+* **[django-versioned-models](https://pypi.org/project/django-versioned-models)** – Drop-in release management and data versioning for Django models, with CI-ready workflow and lock enforcement
 * **[python-databases](https://pypi.org/project/python-databases)** – A unified, extensible interface for interacting with multiple database types through a single API.
 * **[python-vault](https://pypi.org/project/python-vault)** – A lightweight HashiCorp Vault wrapper for secure AppRole authentication and KV secret management.
 * **[python-simple-email-sender](https://pypi.org/project/python-simple-email-sender)** – A minimalist SMTP client for sending emails and attachments with zero boilerplate.
