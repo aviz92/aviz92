@@ -79,5 +79,10 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 
 I'm always open to discussing automation architecture, Python best practices, or potential innovations.
 
-[GitHub](https://github.com/aviz92) | [PyPI Profile](https://pypi.org/user/aviz/) | [LinkedIn](https://www.linkedin.com/in/avi-zaguri-41869b11b) | [Blog](https://aviz92.github.io)
+<!-- [GitHub](https://github.com/aviz92) | [PyPI Profile](https://pypi.org/user/aviz/) | [LinkedIn](https://www.linkedin.com/in/avi-zaguri-41869b11b) | [Blog](https://aviz92.github.io) -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-aviz92-181717?logo=github)](https://github.com/aviz92)
+&nbsp; [![PyPI](https://img.shields.io/badge/PyPI-aviz-3775A9?logo=pypi)](https://pypi.org/user/aviz/)
+&nbsp; [![Blog](https://img.shields.io/badge/Blog-aviz92.github.io-0066CC?logo=googlechrome)](https://aviz92.github.io/)
+&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-avi--zaguri-0A66C2?logo=linkedin)](https://www.linkedin.com/in/avi-zaguri-41869b11b)
 
