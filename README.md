@@ -64,6 +64,13 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[python-telegram-bot-template](https://github.com/aviz92/python-telegram-bot-template)** – A modular Python Telegram bot starter with async handlers, inline keyboards, multi-step conversation flows, and clean separation of concerns out of the box.
 * **[python-slack-bot-template](https://github.com/aviz92/python-slack-bot-template)** – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
 
+### 🤝 Collaborations
+
+*Open source projects built together with other engineers from the community.*
+
+* **[pytest-reporter-html](https://github.com/YevgenyFarber/pytest-reporter-html)** *(with [Yevgeny Farber](https://github.com/YevgenyFarber))* – A pytest plugin that generates rich, interactive HTML test reports with zero-config log capture, named step tracking, exception rendering, and real-time filtering.
+
+
 <!-- 
 
 ### Crash Course
