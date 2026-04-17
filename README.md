@@ -22,36 +22,36 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 ### 🧪 Pytest Ecosystem
 *Advanced testing utilities designed to enhance reporting, dependency management, and CI efficiency.*
 
-* **[pytest-plugins](https://pypi.org/project/pytest-plugins)** – Enhanced reporting and smart CI utilities for advanced test workflows.
-* **[pytest-depends-on](https://pypi.org/project/pytest-depends-on)** – Explicit test dependency management with automatic execution re-ordering.
-* **[pytest-dynamic-parameterize](https://pypi.org/project/pytest-dynamic-parameterize)** – Dynamic, function-based test parameterization for complex data-driven scenarios.
-* **[pytest-collect-requirements](https://pypi.org/project/pytest-collect-requirements)** – Automated requirement collection and traceability mapping directly from your test suite.
+* **[pytest-plugins](https://github.com/aviz92/pytest-plugins) ([PYPI](https://pypi.org/project/pytest-plugins))** – Enhanced reporting and smart CI utilities for advanced test workflows.
+* **[pytest-depends-on](https://github.com/aviz92/pytest-depends-on) ([PYPI](https://pypi.org/project/pytest-depends-on))** – Explicit test dependency management with automatic execution re-ordering.
+* **[pytest-dynamic-parameterize](https://github.com/aviz92/pytest-dynamic-parameterize) ([PYPI](https://pypi.org/project/pytest-dynamic-parameterize))** – Dynamic, function-based test parameterization for complex data-driven scenarios.
+* **[pytest-collect-requirements](https://github.com/aviz92/pytest-collect-requirements) ([PYPI](https://pypi.org/project/pytest-collect-requirements))** – Automated requirement collection and traceability mapping directly from your test suite.
 
 ### 🔌 The "Plus" Client Series
 *Enhanced, production-ready wrappers for popular APIs, focused on developer experience and resilience.*
 
-* **[python-github-plus](https://pypi.org/project/python-github-plus)** – Enhanced GitHub client with improved PR workflows and resilient error management.
-* **[python-gitlab-plus](https://pypi.org/project/python-gitlab-plus)** – Advanced GitLab client optimized for streamlined Merge Request and branch lifecycle management.
-* **[python-jira-plus](https://pypi.org/project/python-jira-plus)** – Extended JIRA client with robust error handling, automated pagination, and metadata validation.
-* **[python-notion-plus](https://pypi.org/project/python-notion-plus)** – An enhanced Notion API client focused on developer experience and intuitive data handling.
+* **[python-github-plus](https://github.com/aviz92/python-github-plus) ([PYPI](https://pypi.org/project/python-github-plus))** – Enhanced GitHub client with improved PR workflows and resilient error management.
+* **[python-gitlab-plus](https://github.com/aviz92/python-gitlab-plus) ([PYPI](https://pypi.org/project/python-gitlab-plus))** – Advanced GitLab client optimized for streamlined Merge Request and branch lifecycle management.
+* **[python-jira-plus](https://github.com/aviz92/python-jira-plus) ([PYPI](https://pypi.org/project/python-jira-plus))** – Extended JIRA client with robust error handling, automated pagination, and metadata validation.
+* **[python-notion-plus](https://github.com/aviz92/python-notion-plus) ([PYPI](https://pypi.org/project/python-notion-plus))** – An enhanced Notion API client focused on developer experience and intuitive data handling.
 
 ### 🏗️ Backend & Data Infrastructure
 *Scalable tools for managing data, security, and enterprise-grade API development.*
 
-* **[drf-easy-crud](https://pypi.org/project/drf-easy-crud)** – Enterprise-grade CRUD automation for DRF with built-in filtering and standardized methods.
-* **[pyrest-model-client](https://pypi.org/project/pyrest-model-client)** – A type-safe, model-driven REST client for structured and intuitive API interactions.
-* **[django-versioned-models](https://pypi.org/project/django-versioned-models)** – Drop-in release management and data versioning for Django models, with CI-ready workflow and lock enforcement
-* **[python-databases](https://pypi.org/project/python-databases)** – A unified, extensible interface for interacting with multiple database types through a single API.
-* **[python-vault](https://pypi.org/project/python-vault)** – A lightweight HashiCorp Vault wrapper for secure AppRole authentication and KV secret management.
-* **[python-simple-email-sender](https://pypi.org/project/python-simple-email-sender)** – A minimalist SMTP client for sending emails and attachments with zero boilerplate.
+* **[drf-easy-crud](https://github.com/aviz92/drf-easy-crud) ([PYPI](https://pypi.org/project/drf-easy-crud))** – Enterprise-grade CRUD automation for DRF with built-in filtering and standardized methods.
+* **[pyrest-model-client](https://github.com/aviz92/pyrest-model-client) ([PYPI](https://pypi.org/project/pyrest-model-client))** – A type-safe, model-driven REST client for structured and intuitive API interactions.
+* **[django-versioned-models](https://github.com/aviz92/django-versioned-models) ([PYPI](https://pypi.org/project/django-versioned-models))** – Drop-in release management and data versioning for Django models, with CI-ready workflow and lock enforcement
+* **[python-vault](https://github.com/aviz92/python-vault) ([PYPI](https://pypi.org/project/python-vault))** – A lightweight HashiCorp Vault wrapper for secure AppRole authentication and KV secret management.
+* **[python-simple-email-sender](https://github.com/aviz92/python-simple-email-sender) ([PYPI](https://pypi.org/project/python-simple-email-sender))** – A minimalist SMTP client for sending emails and attachments with zero boilerplate.
+* **[python-databases](https://github.com/aviz92/python-databases) ([PYPI](https://pypi.org/project/python-databases))** – A unified, extensible interface for interacting with multiple database types through a single API.
 
 ### 🧱 Core Foundations
 *Essential architectural utilities for clean code and robust application logic.*
 
-* **[python-base-toolkit](https://pypi.org/project/python-base-toolkit)** – A production-ready suite of essential utilities designed to accelerate Python development.
-* **[custom-python-logger](https://pypi.org/project/custom-python-logger)** – A flexible logger featuring colored output, custom levels, and streamlined configuration.
-* **[python-base-command](https://pypi.org/project/python-base-command)** – A base command abstraction for building structured, reusable CLI and automation commands in Python.
-* **[python-custom-exceptions](https://pypi.org/project/python-custom-exceptions)** – A centralized library of reusable, semantic exception classes for cleaner error handling.
+* **[python-base-toolkit](https://github.com/aviz92/python-base-toolkit) ([PYPI](https://pypi.org/project/python-base-toolkit))** – A production-ready suite of essential utilities designed to accelerate Python development.
+* **[custom-python-logger](https://github.com/aviz92/custom-python-logger) ([PYPI](https://pypi.org/project/custom-python-logger))** – A flexible logger featuring colored output, custom levels, and streamlined configuration.
+* **[python-base-command](https://github.com/aviz92/python-base-command) ([PYPI](https://pypi.org/project/python-base-command))** – A base command abstraction for building structured, reusable CLI and automation commands in Python.
+* **[python-custom-exceptions](https://github.com/aviz92/python-custom-exceptions) ([PYPI](https://pypi.org/project/python-custom-exceptions))** – A centralized library of reusable, semantic exception classes for cleaner error handling.
 
 ### 🚀 Templates & Starter Projects — under Backend & Data Infrastructure
 
