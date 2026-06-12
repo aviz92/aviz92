@@ -16,6 +16,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 ### 🤖 AI & LLM
 *AI-powered bots and LLM integrations for intelligent automation across messaging and productivity platforms.*
 
+* **[internal-ai-marketplace](https://github.com/aviz92/internal-ai-marketplace)** – The internal catalog of skills, plugins, and rules powering the `agents-marketplace` CLI — curated AI-agent context authored once and rendered natively for Claude Code, Cursor, Copilot, Codex CLI, Gemini CLI, and more.
 * **[think-drop](https://github.com/aviz92/think-drop)** (python-telegram-notion-bot) – An AI-powered Telegram bot that captures quick thoughts and notes, automatically classifies them by category, and writes clean summaries directly to your Notion workspace using structured Pydantic models and multi-LLM support.
 * **[ticket-assist](https://github.com/aviz92/ticket-assist)** (python-slack-bot) – An AI-powered Slack bot that automatically classifies and routes incoming support tickets using structured Pydantic models and multi-LLM support, reducing manual triage effort.
 
@@ -63,6 +64,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[docker-mcp-service-template](https://github.com/aviz92/docker-mcp-service-template)** – A Dockerized MCP service template for rapid deployment of Model Context Protocol services with Claude Desktop integration.
 * **[python-telegram-bot-template](https://github.com/aviz92/python-telegram-bot-template)** – A modular Python Telegram bot starter with async handlers, inline keyboards, multi-step conversation flows, and clean separation of concerns out of the box.
 * **[python-slack-bot-template](https://github.com/aviz92/python-slack-bot-template)** – A production-ready Slack bot with Flask event handling, AI-powered ticket classification via structured Pydantic models, and multi-LLM support (Claude, Gemini, OpenAI).
+* **[ai-marketplace](https://github.com/aviz92/ai-marketplace)** – An interactive CLI (`agents-marketplace`) that distributes reusable AI-agent context — skills, plugins, and rules — into any project, rendering each artifact into the native format every supported AI coding agent expects.
 
 ### 🤝 Collaborations
 
