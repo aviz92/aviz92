@@ -27,6 +27,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[pytest-depends-on](https://github.com/aviz92/pytest-depends-on) ([PYPI](https://pypi.org/project/pytest-depends-on))** – Explicit test dependency management with automatic execution re-ordering.
 * **[pytest-dynamic-parameterize](https://github.com/aviz92/pytest-dynamic-parameterize) ([PYPI](https://pypi.org/project/pytest-dynamic-parameterize))** – Dynamic, function-based test parameterization for complex data-driven scenarios.
 * **[pytest-collect-requirements](https://github.com/aviz92/pytest-collect-requirements) ([PYPI](https://pypi.org/project/pytest-collect-requirements))** – Automated requirement collection and traceability mapping directly from your test suite.
+* **[pytest-fail2skip](https://github.com/aviz92/pytest-fail2skip) ([PYPI](https://pypi.org/project/pytest-fail2skip))** – Opt-in conversion of known failures into skips, scoped to expected exceptions, so they don't block the CI gate.
 
 ### 🔌 The "Plus" Client Series
 *Enhanced, production-ready wrappers for popular APIs, focused on developer experience and resilience.*
