@@ -30,6 +30,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 * **[pytest-fail2skip](https://github.com/aviz92/pytest-fail2skip) ([PYPI](https://pypi.org/project/pytest-fail2skip))** – Opt-in conversion of known failures into skips, scoped to expected exceptions, so they don't block the CI gate.
 * **[pytest-inject-config](https://github.com/aviz92/pytest-inject-config) ([PYPI](https://pypi.org/project/pytest-inject-config))** – Load a format config file via `--config-path` and inject it into every test class as `self.config`, to run one suite against any environment.
 * **[pytest-max-fail-streak](https://github.com/aviz92/pytest-max-fail-streak) ([PYPI](https://pypi.org/project/pytest-max-fail-streak))** – Stop the run after N consecutive failing tests (setup errors included), so a broken environment fails fast instead of failing every remaining test.
+* **[pytest-better-report](https://github.com/aviz92/pytest-better-report) ([PYPI](https://pypi.org/project/pytest-better-report))** – Structured JSON and Markdown reports of every run with CI metadata (repo, PR/MR, pipeline, commit), plus a CLI to compare two runs.
 
 ### 🔌 The "Plus" Client Series
 *Enhanced, production-ready wrappers for popular APIs, focused on developer experience and resilience.*
