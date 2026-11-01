@@ -23,7 +23,7 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 ### 🧪 Pytest Ecosystem
 *Advanced testing utilities designed to enhance reporting, dependency management, and CI efficiency.*
 
-* **[pytest-plugins](https://github.com/aviz92/pytest-plugins) ([PYPI](https://pypi.org/project/pytest-plugins))** – Enhanced reporting and smart CI utilities for advanced test workflows.
+[//]: # (* **[pytest-plugins]&#40;https://github.com/aviz92/pytest-plugins&#41; &#40;[PYPI]&#40;https://pypi.org/project/pytest-plugins&#41;&#41;** – Started as a single package bundling reporting and CI utilities, later split into dedicated plugins &#40;pytest-better-report, pytest-fail2skip, pytest-inject-config, pytest-max-fail-streak&#41;. Today it's an umbrella package that installs all of them in one go.)
 * **[pytest-depends-on](https://github.com/aviz92/pytest-depends-on) ([PYPI](https://pypi.org/project/pytest-depends-on))** – Explicit test dependency management with automatic execution re-ordering.
 * **[pytest-dynamic-parameterize](https://github.com/aviz92/pytest-dynamic-parameterize) ([PYPI](https://pypi.org/project/pytest-dynamic-parameterize))** – Dynamic, function-based test parameterization for complex data-driven scenarios.
 * **[pytest-collect-requirements](https://github.com/aviz92/pytest-collect-requirements) ([PYPI](https://pypi.org/project/pytest-collect-requirements))** – Automated requirement collection and traceability mapping directly from your test suite.
