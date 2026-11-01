@@ -24,13 +24,13 @@ Beyond technical expertise, I thrive in collaborative environments, working clos
 *Advanced testing utilities designed to enhance reporting, dependency management, and CI efficiency.*
 
 [//]: # (* **[pytest-plugins]&#40;https://github.com/aviz92/pytest-plugins&#41; &#40;[PYPI]&#40;https://pypi.org/project/pytest-plugins&#41;&#41;** – Started as a single package bundling reporting and CI utilities, later split into dedicated plugins &#40;pytest-better-report, pytest-fail2skip, pytest-inject-config, pytest-max-fail-streak&#41;. Today it's an umbrella package that installs all of them in one go.)
-* **[pytest-depends-on](https://github.com/aviz92/pytest-depends-on) ([PYPI](https://pypi.org/project/pytest-depends-on))** – Explicit test dependency management with automatic execution re-ordering.
+* **[pytest-better-report](https://github.com/aviz92/pytest-better-report) ([PYPI](https://pypi.org/project/pytest-better-report))** – Structured JSON and Markdown reports of every run with CI metadata (repo, PR/MR, pipeline, commit), plus a CLI to compare two runs.
 * **[pytest-dynamic-parameterize](https://github.com/aviz92/pytest-dynamic-parameterize) ([PYPI](https://pypi.org/project/pytest-dynamic-parameterize))** – Dynamic, function-based test parameterization for complex data-driven scenarios.
+* **[pytest-depends-on](https://github.com/aviz92/pytest-depends-on) ([PYPI](https://pypi.org/project/pytest-depends-on))** – Explicit test dependency management with automatic execution re-ordering.
 * **[pytest-collect-requirements](https://github.com/aviz92/pytest-collect-requirements) ([PYPI](https://pypi.org/project/pytest-collect-requirements))** – Automated requirement collection and traceability mapping directly from your test suite.
-* **[pytest-fail2skip](https://github.com/aviz92/pytest-fail2skip) ([PYPI](https://pypi.org/project/pytest-fail2skip))** – Opt-in conversion of known failures into skips, scoped to expected exceptions, so they don't block the CI gate.
 * **[pytest-inject-config](https://github.com/aviz92/pytest-inject-config) ([PYPI](https://pypi.org/project/pytest-inject-config))** – Load a format config file via `--config-path` and inject it into every test class as `self.config`, to run one suite against any environment.
 * **[pytest-max-fail-streak](https://github.com/aviz92/pytest-max-fail-streak) ([PYPI](https://pypi.org/project/pytest-max-fail-streak))** – Stop the run after N consecutive failing tests (setup errors included), so a broken environment fails fast instead of failing every remaining test.
-* **[pytest-better-report](https://github.com/aviz92/pytest-better-report) ([PYPI](https://pypi.org/project/pytest-better-report))** – Structured JSON and Markdown reports of every run with CI metadata (repo, PR/MR, pipeline, commit), plus a CLI to compare two runs.
+* **[pytest-fail2skip](https://github.com/aviz92/pytest-fail2skip) ([PYPI](https://pypi.org/project/pytest-fail2skip))** – Opt-in conversion of known failures into skips, scoped to expected exceptions, so they don't block the CI gate.
 
 ### 🔌 The "Plus" Client Series
 *Enhanced, production-ready wrappers for popular APIs, focused on developer experience and resilience.*
